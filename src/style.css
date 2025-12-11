@@ -1,0 +1,45 @@
+body {
+    font-family: "Courier New", Courier, monospace;
+    background-color: darkslategrey;
+    color: lightgrey;
+}
+
+#main-header {
+    display: flex;
+    justify-content: center;
+}
+
+ul {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+
+ul * {
+    text-align: center;
+}
+li {
+    border: solid 1px lightgrey;
+    border-radius: 5px;
+    padding: 3em;
+    list-style: none;
+    width: fit-content;
+    max-width: 300px;
+    margin: 1em;
+}
+
+li img {
+    max-width: 200px;
+}
+
+a {
+    color: lightskyblue;
+    text-decoration: none;
+}
+
+a:hover {
+    color: mediumpurple;
+    text-decoration: underline;
+    text-decoration-style: dashed;
+}
