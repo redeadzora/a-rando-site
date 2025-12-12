@@ -15,6 +15,14 @@ const items = [
       "this would match the front rack, it is out of stock on Soma's site though :( it may be available elsewhere; silver",
   },
   {
+    name: "bike light",
+    url: "https://www.outboundlighting.com/products/detour",
+    imgsrc:
+      "https://www.outboundlighting.com/cdn/shop/products/road-bike-light-detour-bike-light-39947439505665_1800x1800.jpg?v=1764684425",
+    description:
+      "a nice bike light made in Chicago. my bike light is not great.",
+  },
+  {
     name: "tank top",
     url: "https://outlier.nyc/collections/shirts/dp-helix-loose-tank?Color=Matteblack&Size=M",
     imgsrc:
